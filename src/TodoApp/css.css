@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(19, 11, 54);
+    color: whitesmoke;
+}
+.framework{
+    width: 30%;
+    height: 500px;
+    margin-top: 6%;
+    margin-left: 35%;
+    margin-right: 35%;   
+}
+.framework img{
+    width: 50%;
+    height: 120px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.data label{
+    color: whitesmoke;
+    font-size: 20px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.btn-input{
+    border: none;
+    
+}
+.btn_submit{
+    background-color: whitesmoke;
+    border: none;
+}
+.btn_submit:hover{
+    background-color: palevioletred;
+}
+.Content{
+    width: 80%;
+    float: left;
+    height: 40px;
+    padding: 2%;
+    background-color: rebeccapurple;
+    cursor: pointer;
+}
+.Contentdata{
+    width: 100%;
+
+    height: 30px;
+
+}
+.remove{  
+    font-size: 25px;
+    cursor: pointer;
+    margin-top: 15%;
+    margin-left: 30%;
+}
+.remove_icon{
+    float: left;
+    width: 20%;
+    height: 40px;
+    background-color: rebeccapurple;
+}
+.btn_update{
+    background-color: whitesmoke;
+    border: none;
+}
